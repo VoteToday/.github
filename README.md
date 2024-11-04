@@ -1,10 +1,10 @@
-**Project Title:** EmpowerVote - An Integrated App for Secure, Accessible, and Engaging Voter Registration
+# Draft Project Overview
 
 ---
 
-## **Project Overview**
+## **Idea**
 
-EmpowerVote is an innovative mobile application that combines blockchain technology, AI-powered multilingual chatbot assistance, and augmented reality (AR) to streamline and simplify the voter registration process for youth in underserved communities. By integrating these advanced technologies, the app aims to make voter registration secure, accessible, and engaging, ensuring that every young voice can participate in the democratic process.
+VoteToday is an innovative mobile application that combines blockchain technology, AI-powered multilingual chatbot assistance, and augmented reality (AR) to streamline and simplify the voter registration process for youth in underserved communities. By integrating these advanced technologies, the app aims to make voter registration secure, accessible, and engaging, ensuring that every young voice can participate in the democratic process.
 
 ---
 
@@ -357,9 +357,3 @@ EmpowerVote is an innovative mobile application that combines blockchain technol
    - Regularly review progress and adjust plans as necessary.
 
 ---
-
-By combining these cutting-edge technologies into a single application, you can create a powerful tool that addresses multiple barriers to youth voter registration. The integration of blockchain ensures security and trust, the AI chatbot provides personalized assistance, and AR makes the process interactive and error-free. This holistic approach can significantly impact voter turnout among youth in underserved communities.
-
----
-
-**Good luck with your project!** Remember to start small, perhaps by developing a minimal viable product (MVP) focusing on one core feature before scaling up. Engage with your target users early and often to ensure the app meets their needs and expectations.
